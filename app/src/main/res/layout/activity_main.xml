@@ -4,5 +4,4 @@
     android:id="@+id/list_view"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="net.qiik.project.listviewtest.MainActivity"/>
-
+    tools:context="by.itacademy.listviewtest.MainActivity" />
